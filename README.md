@@ -1,13 +1,4 @@
-<style>
-  .test {
-    font-size: 40px;
-    font-weight: bold;
-  }
-  .tr_test {
-    font-weight: bold;
-    color: red;
-  }
-</style>
+
 <p class="test">ddddd</p>
 <table>
 <tr>
